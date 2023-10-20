@@ -1,0 +1,152 @@
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmProductos.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmMenuPrincipal.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.Properties.Resources.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmAltaProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmEliminarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmModificarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaAgregarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaCrear.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmAltaProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmEliminarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmMenuPrincipal.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmModificarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmProductos.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaAgregarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaCrear.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.Properties.Resources.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmAltaProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmEliminarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmMenuPrincipal.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmModificarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmProductos.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaAgregarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaCrear.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.Properties.Resources.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmAltaProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmEliminarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmMenuPrincipal.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmModificarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmProductos.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaAgregarProducto.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmVentaCrear.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.Properties.Resources.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmIniciarSesionPrincipal.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmRegistroUsuario.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmModificarUsuario.resources
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionUI\obj\Debug\net6.0-windows\SistemaGestionUI.frmReportesVentas.resources

@@ -1,0 +1,55 @@
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\13_Desarrollo de Aplicaciones en Capas\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\14_APIs y end points de consulta OK\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\15_API y end points de modificación\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+D:\MESA DE TRABAJO\FULL PROGRAMACION\1_CODER HOUSE\BACK-END C#\16_Cierre de cursada y proyecto final\SistemaGestion_Master\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
