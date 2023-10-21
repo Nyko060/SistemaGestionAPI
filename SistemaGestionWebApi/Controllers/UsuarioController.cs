@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Connections.Features;
+using Microsoft.AspNetCore.Diagnostics;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SistemaGestionBussiness;
 using SistemaGestionData;
@@ -43,11 +45,21 @@ namespace SistemaGestionWebApi.Controllers
             UsuarioBussiness.CrearUsuario(usuario);
         }
 
-        [HttpPost("{nombreUsuario},{contraseña}")] /**Get o Post**/
+        [HttpGet("{nombreUsuario},{contraseña}")] /**Validacion de Usuario y Contraseña en caso error de uno se muestra 
+                                                   * (204) significa que el servidor ha procesado con éxito la solicitud, pero no va a devolver ningún contenido**/
 
         public ActionResult<Usuario> Getby(string nombreUsuario,string contraseña)
         {
-            return UsuarioBussiness.ObtenerUsuario(nombreUsuario,contraseña);
+            return UsuarioBussiness.ObtenerUsuario(nombreUsuario, contraseña); //Ok
         }
+
+        [HttpGet("{nombreUsuario}")] /**Validacion de Usuario y Contraseña en caso error de uno se muestra 
+                                                   * (204) significa que el servidor ha procesado con éxito la solicitud, pero no va a devolver ningún contenido**/
+        public ActionResult<Usuario> Getby(string nombreUsuario) /**Obtener el Nombre mediante el ingreso del nombre de Usuario en caso de no estar 204**/
+        {
+            return UsuarioBussiness.ObtenerNombre(nombreUsuario); //Ok
+        }
+
+
     }
 }

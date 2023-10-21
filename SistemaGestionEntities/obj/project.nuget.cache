@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NoyqfIm9f+blrV/nobHISMF17DYv07fS2FQ93pnDzxc0coB075vO6nyl5PKU2CGIx0jkJdW+5+V5vFF8RjXY1Q==",
+  "dgSpecHash": "Dp4QeSnxzWNBEfD+jgbz3JFJiNb5oMDl/tyAQOReJ9cuURtfTUsYBmbGDov1rkNxdvlhVDynC4HJb+kpoMYLuA==",
   "success": true,
-  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestion_Master\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
+  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestionAPI\\SistemaGestionEntities\\SistemaGestionEntities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

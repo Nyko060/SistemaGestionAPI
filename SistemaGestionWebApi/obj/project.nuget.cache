@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "phb5v/F+KYYMzESjoWmoZVYzbCv8a00Y5V9jFLVDmoB3LHSb+2H3KlCgGqqkPtqDKdc5OWe/+9IAd64B2R9RVA==",
+  "dgSpecHash": "5wYv6IpCICxdbBo4tInLXrdHsxm/rVKZQ7NjQnrEBFLY/UysD9rshUIGl/toAxG1ni9TjrHC6AZXFszo2kUjZQ==",
   "success": true,
-  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestion_Master\\SistemaGestionWebApi\\SistemaGestionWebApi.csproj",
+  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestionAPI\\SistemaGestionWebApi\\SistemaGestionWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

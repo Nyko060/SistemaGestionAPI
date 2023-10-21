@@ -61,7 +61,7 @@ namespace SistemaGestionData
             Usuario usuario = new Usuario();
             string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
                                         Trusted_Connection=True";
-            string query = "SELECT Id,Nombre,Apellido,NombreUsuario,Contraseña,Mail FROM Usuario Where NombreUsuario=@NombreUsuario AND Contraseña=@Contraseña"; //SE LE AGREGA UN WHERE
+            string query = "SELECT Id,Nombre,Apellido,NombreUsuario,Contraseña,Mail FROM Usuario Where NombreUsuario=@NombreUsuario AND Contraseña=@Contraseña"; /**Se utiliza el AND**/
 
             try
             {
@@ -97,13 +97,70 @@ namespace SistemaGestionData
                     // Opcional
                     conexion.Close();
                 }
-                return usuario;
+                if ((usuario.Contraseña != null)||(usuario.NombreUsuario!=null) )
+                {
+                    return usuario;
+                }
+                else
+                {
+                    return null;
+                }
             }
             catch (Exception ex)
             {
-                return null;
+                throw;
             }
         }
+
+        public static Usuario ObtenerNombre(string nombreUsuario)
+        {
+            Usuario usuario = new Usuario();
+            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
+                                        Trusted_Connection=True";
+            string query = "SELECT Id,Nombre,Apellido,NombreUsuario,Contraseña,Mail FROM Usuario Where NombreUsuario=@NombreUsuario"; /**Se utiliza el AND**/
+
+            try
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionString))
+                {
+                    conexion.Open(); //SE ABRE CONEXION
+
+                    using (SqlCommand comando = new SqlCommand(query, conexion)) /**EL COMANDO VA A SER LA query 
+                                                                                  * Y OJO QUE TIENE UNA PARAMETRO
+                                                                                  * Y SE LE PASA EL PARAMETRO LUEGO**/
+                    {
+                        comando.Parameters.Add(new SqlParameter("NombreUsuario", SqlDbType.VarChar) { Value = nombreUsuario });
+                        /**AL SE LE AGREGA UN PARAMETRO, ACA SE TIENE QUE LLAMAR Id, EL TIPO DE DATO ES UN ENTERO, **/
+
+                        using (SqlDataReader dr = comando.ExecuteReader())
+                        {
+                            if (dr.HasRows)
+                            {
+                                while (dr.Read())
+                                {
+                                    usuario.Nombre = dr["Nombre"].ToString();
+                                }
+                            }
+                        }
+                    }
+                    // Opcional
+                    conexion.Close();
+                }
+                if (usuario.Nombre != null)
+                {
+                    return usuario;
+                }
+                else
+                {
+                    return null;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
         public static void CrearUsuario(Usuario usuario)
         {
             //double IdUsuario = 0;

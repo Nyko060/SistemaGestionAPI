@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lfkyMZyEfpKyZw9eJtFd50K3aVKffjgEN8v5loV7uU6HiPPm8BeLMnVZ01Ba+Gq/8YAye2h5J0Plx7tRobtj0g==",
+  "dgSpecHash": "k7+D81mJKc06IXcGp1f6d26T8w2Zbu90hS+UYBSkln5FVuBgWjFQ5/P/ME88aIVe6yrFSzsqQjuzlCWPU95+3A==",
   "success": true,
-  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestion_Master\\SistemaGestionData\\SistemaGestionData.csproj",
+  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestionAPI\\SistemaGestionData\\SistemaGestionData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

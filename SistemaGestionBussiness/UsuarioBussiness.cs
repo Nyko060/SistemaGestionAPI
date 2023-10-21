@@ -15,8 +15,12 @@ namespace SistemaGestionBussiness
             return UsuarioData.ListarUsuarios();
         }
         public static Usuario ObtenerUsuario(string nombreUsuario, string contraseña)
-        {
+        { 
             return UsuarioData.ObtenerUsuario(nombreUsuario,contraseña);
+        }
+        public static Usuario ObtenerNombre(string nombreUsuario)
+        {
+            return UsuarioData.ObtenerNombre(nombreUsuario);
         }
         public static void CrearUsuario(Usuario usuario)
         {

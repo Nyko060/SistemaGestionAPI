@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ER//gXUwhszrlwkn69uWYSCAKYMgkAjLshD9OnbowVXjQwmViwQwuyZ82NJ8IGhfpw48wWy7qlFrMfO2eWiCdw==",
+  "dgSpecHash": "HqFu2ILtsHP0WwimE3QuSxDn1IXSTr3SYQknVCMO/ojskh/NLrRtkFQ1FenLVZPt8YzMt5PWRMuD8T0vzrfYGg==",
   "success": true,
-  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestion_Master\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
+  "projectFilePath": "D:\\MESA DE TRABAJO\\FULL PROGRAMACION\\1_CODER HOUSE\\BACK-END C#\\16_Cierre de cursada y proyecto final\\SistemaGestionAPI\\SistemaGestionBussiness\\SistemaGestionBussiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Nicolas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
