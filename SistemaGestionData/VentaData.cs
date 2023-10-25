@@ -11,12 +11,13 @@ namespace SistemaGestionData
 {
     public class VentaData
     {
+        static string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
+                                        Trusted_Connection=True";
         #region Venta
         public static List<Venta> ListarVentas()
         {
             List<Venta> lista = new List<Venta>();
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
+            
             string query = "SELECT Id,Comentarios,IdUsuario FROM Venta";
             try
             {
@@ -68,8 +69,7 @@ namespace SistemaGestionData
         public static Venta ObtenerVenta(int id)
         {
             Venta venta = new Venta();
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
+            
             string query = "SELECT Id,Comentarios,IdUsuario FROM Venta Where Id=@Id"; //SE LE AGREGA UN WHERE
 
             try
@@ -110,7 +110,6 @@ namespace SistemaGestionData
         }
         public static void CrearVenta(Venta venta)
         {
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
             string query = "INSERT INTO Venta (Comentarios,IdUsuario)" +
                     " VALUES(@Comentarios, @IdUsuario); "; //select@@IDENTITY 
             try
@@ -134,8 +133,8 @@ namespace SistemaGestionData
         }
         public static void ModificarVenta(Venta venta)
         {                              //El servido-----------------------LA BASE DE DATOS
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";//ACA EL COMO SE VA A CONECTAR /En caso que no sea asi se debera con un usuario y contraseña 
+            //string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
+                                       // Trusted_Connection=True";//ACA EL COMO SE VA A CONECTAR /En caso que no sea asi se debera con un usuario y contraseña 
             string query = "UPDATE Venta " +
                 "SET Comentarios = @Comentarios, IdUsuario=@IdUsuario " +
                 " WHERE Id = @Id"; //CONSULTA 
@@ -164,8 +163,6 @@ namespace SistemaGestionData
         }
         public static void EliminarVenta(Venta venta)
         {
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
             string query = "DELETE FROM Venta" +
                             " WHERE Id = @Id";
 

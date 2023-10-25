@@ -9,14 +9,16 @@ using SistemaGestionEntities;
 
 namespace SistemaGestionData
 {
+    
     public class UsuarioData
     {
+        static string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
+                                        Trusted_Connection=True";
         #region Usuario
         public static List<Usuario> ListarUsuarios()
         {
             List<Usuario> lista = new List<Usuario>();
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
+            
             string query = "SELECT Id,Nombre,Apellido,NombreUsuario,Contraseña,Mail FROM Usuario";
             try
             {
@@ -59,8 +61,7 @@ namespace SistemaGestionData
         public static Usuario ObtenerUsuario(string nombreUsuario,string contraseña)
         {
             Usuario usuario = new Usuario();
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
+            
             string query = "SELECT Id,Nombre,Apellido,NombreUsuario,Contraseña,Mail FROM Usuario Where NombreUsuario=@NombreUsuario AND Contraseña=@Contraseña"; /**Se utiliza el AND**/
 
             try
@@ -111,12 +112,10 @@ namespace SistemaGestionData
                 throw;
             }
         }
-
         public static Usuario ObtenerNombre(string nombreUsuario)
         {
             Usuario usuario = new Usuario();
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
+            
             string query = "SELECT Id,Nombre,Apellido,NombreUsuario,Contraseña,Mail FROM Usuario Where NombreUsuario=@NombreUsuario"; /**Se utiliza el AND**/
 
             try
@@ -160,11 +159,10 @@ namespace SistemaGestionData
                 throw;
             }
         }
-
         public static void CrearUsuario(Usuario usuario)
         {
             //double IdUsuario = 0;
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
+            
             string query = "INSERT INTO USUARIO (Nombre,Apellido,NombreUsuario,Contraseña,Mail)" +
                     " VALUES(@Nombre, @Apellido, @NombreUsuario, @Contraseña, @Mail); "; //select@@IDENTITY
             try
@@ -194,7 +192,7 @@ namespace SistemaGestionData
         }
         public static void ModificarUsuario(Usuario usuario)
         {
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
+            
             string query = "UPDATE USUARIO " +
                     " SET Nombre = @Nombre,Apellido=@Apellido,NombreUsuario=@NombreUsuario,Contraseña = @Contraseña,Mail=@Mail " +
                     "WHERE Id=@Id";//CONSULTA
@@ -225,7 +223,7 @@ namespace SistemaGestionData
         }
         public static void EliminarUsuario(Usuario usuario)
         {
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
+            
             string query = "DELETE FROM Usuario WHERE Id=@Id";
 
             try

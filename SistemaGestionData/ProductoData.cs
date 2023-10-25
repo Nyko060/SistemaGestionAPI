@@ -12,13 +12,14 @@ namespace SistemaGestionData
 {
     public class ProductoData
     {
+        static string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
+                                        Trusted_Connection=True";
         #region Producto
         public static List<Producto> ListarProductos() /**ESTO DEVUELVE UNA LISTA DE OBJETOS**/
         {
             List<Producto> lista = new List<Producto>();/**SE CREA UNA INSTANCIA DE LA LISTA PARA PODER DEVOLVER LA MISMA se retorna en la 67**/
             /**---------------CADENA DE CONEXION--------------------------------------**/
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True"; /**<----Forma de conectarse**/
+            //string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;Trusted_Connection=True"; /**<----Forma de conectarse**/
             string query = "SELECT Id,Descripciones,Costo,PrecioVenta,Stock,IdUsuario FROM Producto"; //CONSULTA SQL
 
             try
@@ -76,8 +77,6 @@ namespace SistemaGestionData
         public static Producto ObtenerProducto(int id)
         {
             Producto producto = new Producto();
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
             string query = "SELECT Id,Descripciones,Costo,PrecioVenta,Stock,IdUsuario FROM Producto Where Id=@Id"; //SE LE AGREGA UN WHERE
 
             try
@@ -122,8 +121,6 @@ namespace SistemaGestionData
         }
         public static void CrearProducto(Producto producto)/**METODO AL CUAL SE LE PASA EL PRODUCTO**/
         {
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
             string query = "INSERT INTO PRODUCTO (Descripciones,Costo,PrecioVenta,Stock,IdUsuario)" + /**INSERT**/
                             "VALUES(@Descripciones,@Costo,@PrecioVenta,@Stock,@IdUsuario);";
             try
@@ -160,8 +157,7 @@ namespace SistemaGestionData
         }
         public static void ModificarProducto(Producto producto)
         {                              //El servido-----------------------LA BASE DE DATOS
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";//ACA EL COMO SE VA A CONECTAR /En caso que no sea asi se debera con un usuario y contraseña 
+            //string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;Trusted_Connection=True";//ACA EL COMO SE VA A CONECTAR /En caso que no sea asi se debera con un usuario y contraseña 
             string query = "UPDATE Producto " +
                 "SET Descripciones = @Descripciones ,Costo = @Costo, PrecioVenta = @PrecioVenta," +
                 "Stock = @Stock, IdUsuario=@IdUsuario " +
@@ -194,8 +190,6 @@ namespace SistemaGestionData
         }
         public static void EliminarProducto(Producto producto)
         {
-            string connectionString = @"Server=DESKTOP-2903N9M\SQLEXPRESS;DataBase=SistemaGestion;
-                                        Trusted_Connection=True";
             string query = "DELETE FROM Producto" +
                             " WHERE Id = @Id";
 
